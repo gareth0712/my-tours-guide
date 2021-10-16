@@ -6,6 +6,7 @@ A web application that allows tourists and tour guides to register as member. To
 
 - NodeJS with Express and Mongoose together with Typescript will be used to develop the backend server.
 - The backend development of the server is at 60%.
+- Currently working on transforming the code of backend from Javacript to Typescript
 
 ## Frontend deveolpment
 
